@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c694d0-ad5b-4bf9-b089-39189f7b41d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="553ea45f-430b-428e-8f14-ddcdee3a5169" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/trangtran.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +17,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LEuOUxMR1OT7KNAMHq6Z4vESyu" />
+  <component name="ProjectId" id="2LF91kQfNZEyBsJkOtKosVrDwEK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,12 +33,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0c694d0-ad5b-4bf9-b089-39189f7b41d1" name="Changes" comment="" />
-      <created>1675448530252</created>
+      <changelist id="553ea45f-430b-428e-8f14-ddcdee3a5169" name="Changes" comment="" />
+      <created>1675455751155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675448530252</updated>
-      <workItem from="1675448532548" duration="75000" />
+      <updated>1675455751155</updated>
+      <workItem from="1675455754443" duration="51000" />
     </task>
     <servers />
   </component>
